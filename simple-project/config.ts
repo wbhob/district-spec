@@ -1,5 +1,5 @@
-import { ApplicationConfig } from '@district/core';
+import { DistrictConfig } from '@district/core';
 
-export const config: AppConfig = {
+export const config: DistrictConfig = {
     port: 8080
 }

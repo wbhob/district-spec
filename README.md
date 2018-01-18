@@ -1,6 +1,4 @@
 # District Specification
-------------
-
 District is our response to some criticisms of the design of Nest, a framework that uses Angular's syntax and DI to make servers. Our primary motivation is to address some of the concerns in my medium post (https://medium.com/@wilsonhobbs/nest-is-really-good-but-nest-could-be-so-much-better-2556b390305b) to create a more democratic and focused server framework.
 
 In this repository, we'll be doing some preliminary designs for naming and planning out a sample project. After several weeks of planning, we'll begin focusing on scaffolding out the main District project.
