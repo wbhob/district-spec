@@ -8,6 +8,7 @@ export class UsersService {
 
     constructor(
         @Collection('users') private usersCollection: Collection<User>
+        // this is OK because functions and interfaces can't be confused by TS: one is only a value, and the other is only a type
     ) { }
 
     getUsers() {
